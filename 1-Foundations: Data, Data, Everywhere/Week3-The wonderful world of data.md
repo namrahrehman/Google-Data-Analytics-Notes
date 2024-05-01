@@ -67,9 +67,6 @@ A career as a data analyst also involves using programming languages, like R and
 
 ---
 
-[Glossary](https://docs.google.com/document/d/1HlHJkeCHI2_-dXYhZxacyFpsmFGt49HehhYaZgx-05M/template/preview?resourcekey=0-CX2FbmmO0dgLoD3O0kp1Tw)
-
----
 
 <br />
 
@@ -79,5 +76,18 @@ A career as a data analyst also involves using programming languages, like R and
 
 - What is the relationship between the Ask phase of the data analysis process and the Plan phase of the data life cycle? How are they similar? How are they different?
   - The Plan and Ask phases both involve planning and asking questions, but they tackle different subjects. The Ask phase in the data analysis process focuses on big-picture strategic thinking about business goals. However, the Plan phase focuses on the fundamentals of the project, such as what data you have access to, what data you need, and where you’re going to get it.
+ 
+## Glossary
+
+* **Database:** A collection of data organized in a structured format and stored electronically on a computer system.
+* **Formula:** A set of instructions used within a spreadsheet to perform calculations on the data in the cells.
+* **Function:** A pre-programmed command built into a spreadsheet program that automatically performs a specific task or calculation on data in the spreadsheet.
+* **Query:** A specific request for data or information from a database.
+* **Query Language:** A specialized computer programming language designed to communicate with and retrieve data from a database.
+* **Stakeholders:** Individuals or groups that have an interest in the success of a project and invest time or resources into its outcome.
+* **Structured Query Language (SQL):** A standardized computer programming language used to interact with relational databases, allowing users to retrieve, manipulate, and manage data within them.
+
+**Note:**  SQL is an abbreviation for Structured Query Language. 
+
 
 
