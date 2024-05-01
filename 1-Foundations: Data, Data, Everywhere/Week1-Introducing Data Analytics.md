@@ -112,8 +112,54 @@ Data goes through several phases as it gets created, consumed, tested, processed
 
 <br />
 
----
+## Data Analysis Skills Required:
 
-[Glossary](https://docs.google.com/document/d/1yd3IZr2VupqaTPyjrlauxDLj4MsDHl9r9J3wmNf11mE/template/preview)
+The passage highlights several inherent data analysis skills that are crucial for conducting an effective Exploratory Data Analysis (EDA):
 
----
+* **Curiosity:**  
+  * This drives analysts to ask questions about the data and explore potential relationships between variables.  
+  * Examples include:
+      * How does budget impact opening weekend revenue?
+      * Which genres perform better on opening weekends?
+      * Is there a connection between release season and genre performance?
+      * What additional data (e.g., audience demographics) might be helpful?
+* **Understanding Context:**  
+  * This involves interpreting the data within a broader context to understand the "why" behind the patterns observed.  
+  * Examples include:
+      * Considering factors like release date, holidays, and competition that might influence revenue.
+      * Analyzing audience demographics (age, gender, etc.) to understand moviegoer preferences.
+      * Recognizing seasonal variations in movie attendance patterns (e.g., family films during school breaks).
+* **Technical Mindset:** This refers to a systematic and logical approach to data handling. It involves:
+    * Cleaning, organizing, and preparing the data for analysis.
+    * Selecting and using appropriate tools or software to manipulate and analyze the data.
+    * Identifying and correcting errors in the data to prevent skewed results. 
+* **Data Design:** This focuses on structuring and organizing information for efficient analysis. For instance:
+    * Organizing data by revenue and genre to identify profitable genres.
+    * Structuring the data in a way that facilitates the discovery of patterns and insights.
+* **Data Strategy:** This involves planning and managing the resources used in data analysis. It includes:
+    * Choosing the right tools based on the complexity of the data and desired outputs (e.g., simple dashboard vs. real-time data updates).
+    * Prioritizing analyses based on their potential impact on business objectives (e.g., focusing on analyses impacting next quarter's revenue).
+    * Effectively allocating resources (time, tools, effort) to achieve the desired outcomes.
+
+**The Five Whys** is a simple but effective technique for identifying a root cause. It involves asking "Why?" repeatedly until the answer reveals itself. This often happens at the fifth “why,” but sometimes you’ll need to continue asking more times, sometimes fewer.
+
+## Glossary Terms from Module 1
+
+* **Analytical Skills:** Qualities and characteristics that enable individuals to use facts and data to solve problems effectively.
+* **Analytical Thinking:** The process of breaking down a problem into its components, analyzing it using data, and then finding a solution in a logical and step-by-step manner.
+* **Context:** The circumstances or conditions that surround an event, idea, or situation and help explain its meaning.
+* **Data:** A collection of information, including facts and figures, that can be analyzed or processed.
+* **Data Analysis:** The process of collecting, transforming, organizing, and interpreting data to extract meaningful insights, inform decisions, and make predictions.
+* **Data Analyst:** A professional skilled in collecting, cleaning, analyzing, and interpreting data to draw conclusions and support data-driven decision-making.
+* **Data Analytics:** The science of examining, cleansing, manipulating, and modeling data with the aim of discovering useful information, informing conclusions, and driving informed decision-making. 
+* **Data Design:** The way information is structured and organized for efficient analysis and discovery of patterns and insights.
+* **Data-Driven Decision-Making:** The process of basing decisions on evidence and insights derived from data analysis, rather than intuition or guesswork.
+* **Data Ecosystem:** The network of interconnected elements involved in producing, managing, storing, organizing, analyzing, and sharing data. 
+* **Data Science:** A field that employs scientific methods, processes, algorithms, and systems to extract knowledge and insights from data in various forms, either structured or unstructured.
+* **Data Strategy:** A high-level plan that outlines how data will be collected, managed, analyzed, and used to achieve specific business goals.
+* **Data Visualization:** The graphical representation of data in a way that facilitates easy understanding and communication of trends, patterns, and relationships.
+* **Dataset:** A collection of data points, typically organized in a structured format like a table or spreadsheet, that can be manipulated and analyzed as a whole.
+* **Gap Analysis:** A technique used to identify the difference between an organization's current state and its desired future state, highlighting areas for improvement.
+* **Root Cause:** The underlying reason or source of a problem.
+* **Technical Mindset:** The ability to approach problems in a systematic and logical way, breaking them down into smaller, more manageable steps.
+
