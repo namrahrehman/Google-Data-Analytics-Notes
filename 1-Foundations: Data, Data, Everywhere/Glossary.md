@@ -96,4 +96,3 @@ This glossary compiles key terms and concepts from Course 1:
 
 **Z**
 
-This code provides a well-formatted markdown glossary for your Course 1 materials. 
