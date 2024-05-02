@@ -75,6 +75,15 @@ Structured Query Language (or SQL, often pronounced “sequel”) enables data a
   
   ---
   
-  [Glossary](https://docs.google.com/document/d/1EBGVEVKBWj_uuUZaZ1IYaDfyQWeZXzOcwhWLG5A8mqc/template/preview?resourcekey=0-uEYx121Up84n0Abpn1uQnQ)
+## Glossary Terms from Module 4
+
+This section defines key terms and concepts from Course 1, Module 4:
+
+* **Business Task:** The specific question or problem that data analysis aims to solve in a business context. 
+* **Fairness:** A fundamental principle in data analysis ensuring that results are unbiased and do not perpetuate discrimination against certain groups.
+* **Oversampling:** A technique used to address imbalanced datasets. It involves increasing the number of data points within under-represented groups (nondominant groups) in a population. This helps to improve the representation of these groups in the analysis and provides more accurate insights.
+* **Self-Reporting:** A data collection method where participants themselves provide information about themselves, often through surveys, interviews, or questionnaires.
+
+
   
   ---
