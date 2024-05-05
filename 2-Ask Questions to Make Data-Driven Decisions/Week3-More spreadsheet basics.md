@@ -71,7 +71,17 @@ A cell reference is a single cell or range of cells in a worksheet that can be u
   <ul><li>COUNTIF() is a formula and a function. This means the function runs based on criteria set by the formula. In this case, COUNT is the formula; it will be executed IF the conditions you create are true. For example, you could use =COUNTIF(A1:A16, “7”) to count only the cells that contained the number 7. Combining formulas and functions allows you to do more work with a single command. </li></ul>
 </details>
 
-[**Spreadsheet errors and fixes**](https://d3c33hcgiwev3.cloudfront.net/fDHAQD8OQX6xwEA_DsF-tw_299c2bf89be04d0bae30bf763b606af1_DAC2-Spreadsheet-Errors-and-Fixes.pdf?Expires=1639958400&Signature=khlJhAOS7CarbwgvV-AGUp5XyXkMXYy5ssfw0te3fL7kR68rBLSv-1bafnENkYmL8F2cBpwz6fvGTkfifiI8pkkxlyi58m8PLWZXLpkAYP8zmwUbajS4LWLSJ-1wIzrRIGm6rGsKeBKDGN~QiZeuei2UlXpTt4~A5viTEuJIMzM_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+**Spreadsheet errors and fixes**
+| Error | Description | Example |
+|---|---|---|
+| #DIV/0! | Occurs when a formula tries to divide a value by zero (or an empty cell). | `=B2/B3` where cell B3 contains the value 0. |
+| #ERROR! (Google Sheets only) | Indicates a parsing error, meaning the formula cannot be interpreted due to invalid syntax. | `=COUNT(B1:D1 C1:C10)` is invalid because cell ranges are not separated by a comma. |
+| #N/A | Occurs when a formula cannot find the data it's looking for. | The cell being referenced might not exist. |
+| #NAME? | Appears when the spreadsheet doesn't recognize the name of a formula or function used. | A function name might be misspelled. |
+| #NUM! | Occurs when a formula cannot perform a calculation due to an invalid number in a cell. | `=DATEDIF(A4, B4, "M")` cannot calculate the number of months between two dates because the date in A4 is after the date in B4 (invalid date range). |
+| #REF! | Occurs when a formula references a cell that is no longer valid. | This might happen if a cell used in the formula was deleted. |
+| #VALUE! | A general error indicating a problem with the formula or referenced cells. | Issues might involve spaces, text, or invalid references. Further investigation is needed to identify the cause. |
+
 
 ---
 
