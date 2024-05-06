@@ -102,7 +102,42 @@ A function is a preset command that automatically performs a specific process or
   </ul>
 </details>
 
-[DAC2 Keyboard functions 1](https://d3c33hcgiwev3.cloudfront.net/UbHnj9LnRlGx54_S5yZRJA_64a50a70b938476c852b172e826e9af1_DAC2-Keyboard-functions-1.pdf?Expires=1639958400&Signature=A2lNbKBH4jhT7PyaLm5SiV73QbYwRaY0s3e7EqwSRSE8hdxQAJKOdLY9zed3f2JMtAExTbPZtaPt2i8xRAqbDakzYJ6OwMp4sfsgE8tcThQ~M84UL~EZd8rqrtoVp1GQXfc66n5Pqo1gY9KPGv0WpX030AEHZHyyCDtBtst-bhE_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A), [DAC2 Keyboard functions 2](https://d3c33hcgiwev3.cloudfront.net/9gsOZ_tGTtOLDmf7Rh7T1Q_8a825edae2a94e5e81d880681270acf1_DAC2-Keyboard-functions-2.pdf?Expires=1639958400&Signature=VJUZw6DnuoBIGeqdafuH1OtvsD~g99yDHMWTHDl-rR2PWf9W14kcH9VJ1ktkfeVGkiSFX8TIfWCGHTCyDPtFPXOodtRrATIwzU1~FWunUxkKHZVXwmWdYHDYbNuED10hOXtBSVKAQoYISmWoyZHbM5Jlb0qUnGgHBH7VxUV8mw8_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A).
+**Spreadsheet Keyboard Shortcuts**
+
+| Command | Chromebook | PC | Mac |
+|---|---|---|---|
+| Create new workbook | Control+N | Control+N | Command+N |
+| Open workbook | Control+O | Control+O | Command+O |
+| Save workbook | Control+S | Control+S | Command+S |
+| Close workbook | Control+W | Control+W | Command+W |
+| Undo | Control+Z | Control+Z | Command+Z |
+| Redo | Control+Y | Control+Y | Command+Y |
+| Copy | Control+C | Control+C | Command+C |
+| Cut | Control+X | Control+X | Command+X |
+| Paste | Control+V | Control+V | Command+V |
+| Paste values only | Control+Shift+V | Control+Shift+V | Command+Shift+V |
+| Find | Control+Shift+F | Control+F | Command+F |
+| Find and replace | Control+H | Control+H | Command+Shift+F |
+| Insert link | Control+K | Control+K | Command+K |
+| Bold | Control+B | Control+B | Command+B |
+
+## More Spreadsheet Keyboard Shortcuts
+
+| Command | Chromebook | PC | Mac |
+|---|---|---|---|
+| Italicize | Control+I | Control+I | Command+I |
+| Underline | Control+U | Control+U | Command+U |
+| Zoom in | Control+Plus (+) | Control+Plus (+) | Option+Command+Plus (+) |
+| Zoom out | Control+Minus (-) | Control+Minus (-) | Option+Command+Minus (-) |
+| Select column | Control+Spacebar | Control+Spacebar | Command+Spacebar |
+| Select row | Shift+Spacebar | Shift+Spacebar | Up Arrow+Spacebar |
+| Select all cells | Control+A | Control+A | Command+A |
+| Edit the current cell | Enter | F2 | F2 |
+| Comment on a cell | Ctrl + Alt + M | Alt+I+M | Option+Command+M |
+| Insert column to the left | Ctrl + Alt + = (existing column selected) | Alt+Shift+I, then C | Command + Option + = (existing column selected) |
+| Insert column to the right | Alt + I, then O | Alt+Shift+I, then O | Command + Option + = (existing row selected) |
+| Insert row above | Ctrl + Alt + = (existing row selected) | Alt+Shift+I, then R | Ctrl + Option + I, then B |
+| Insert row below | Alt + I, then R, then B | Alt+Shift+I, then R | Ctrl+Option+I, then O |
 
 ---
 
@@ -148,6 +183,30 @@ To ensure your data is accurate and fair, make sure you start with an accurate r
 
 ---
 
-[Glossary](https://docs.google.com/document/d/1v1_vAc7R81IK2JL4QTIbkUdHVYXnIvithZ_gC_k--jw/template/preview)
+## Course 2, Module 3: Glossary
+
+* **AVERAGE:** A spreadsheet function that calculates and returns the average of the values from a selected range of cells.
+* **Borders:** Lines that can be added around individual cells or groups of cells on a spreadsheet to improve visual organization.
+* **Cell reference:** A reference to a specific cell or a range of cells in a worksheet, typically used in formulas and functions.
+* **COUNT:** A spreadsheet function that counts the number of cells in a specified range that meet a certain criteria, such as containing numbers or text.
+* **Equation (Math expression):** A formula that performs a calculation involving mathematical operations like addition, subtraction, multiplication, or division.
+* **Fill handle:** A small square box in the lower-right corner of a selected spreadsheet cell. Dragging the fill handle allows you to copy the cell's formatting or formula to neighboring cells.
+* **Filtering:** The process of temporarily hiding rows that don't meet specific criteria, allowing you to focus on relevant data without altering the original spreadsheet.
+* **Header:** The top row in a spreadsheet that labels the type of data contained in each column. Headers provide context and improve readability.
+* **Math function:** A pre-defined function within a spreadsheet program performing a specific mathematical calculation, like SUM or AVERAGE.
+* **MAX:** A spreadsheet function that returns the largest numeric value from a selected range of cells.
+* **MIN:** A spreadsheet function that returns the smallest numeric value from a selected range of cells.
+* **Open data:** Data sets that are freely available to the public and can be used by anyone without restrictions.
+* **Operator:** A symbol that represents a specific operation or calculation to be performed in a formula, like "+" for addition or "-" for subtraction.
+* **Order of operations (PEMDAS):** A set of rules that defines the order in which mathematical operations (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction) are performed within a formula to ensure accurate calculations.
+* **Problem domain:** The specific area of analysis that encompasses every activity affecting or affected by the problem you're trying to solve.
+* **Range:** A rectangular block of cells in a spreadsheet consisting of two or more cells. 
+* **Report:** A static collection of data, often presented in a table format, that is periodically generated and shared with stakeholders.
+* **Return on investment (ROI):** A financial metric used to evaluate the success of an investment by comparing the profit gained to the cost of the investment. 
+* **Revenue:** The total income generated by a business through the sale of goods or services.
+* **Scope of work (SOW):** A formal document that outlines the tasks, deliverables, and timelines agreed upon for a project. 
+* **Sorting:** The process of rearranging data in a spreadsheet based on specific criteria (e.g., alphabetical order, numerical value) to facilitate analysis and visualization.
+* **SUM:** A spreadsheet function that adds the values of all the cells within a selected range. 
+
 
 ---
