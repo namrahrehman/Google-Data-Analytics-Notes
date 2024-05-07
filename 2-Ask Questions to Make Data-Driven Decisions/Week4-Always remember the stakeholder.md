@@ -31,6 +31,28 @@ You could be working on multiple projects with lots of different people but no m
 - Data analysts pay attention to sample size in order to represent a diverse set of perspectives and avoid skewed results or inaccurate judgements.
 
 ---
+**Data: A Powerful Tool with Limitations**
+
+This section dives into the importance of understanding data limitations for effective data analysis. 
+
+* **Incomplete or Missing Data:** 
+  * Analysis might not lead to conclusive results due to insufficient data. 
+  * Be transparent about data limitations (e.g., incomplete records).
+  * Explore alternative data sources if possible.
+* **Inconsistent Data Collection:**
+  * Different teams might define and measure metrics differently (e.g., trainee count). 
+  * Standardize data collection methods to ensure consistency and reliable comparisons.
+* **Dirty Data:** 
+  * Data with errors can lead to wasted resources and poor decision-making.
+  * Data cleaning involves fixing or removing incorrect, incomplete, or duplicate data.
+  * Cleaning data improves analysis accuracy and avoids misinterpretations.
+* **Data Storytelling Best Practices (from Avinash Kaushik):**
+    * **Compare Similar Data:** Ensure data charted for visualization represents the same categories. 
+    * **Y-axis to Zero:** Visualize data accurately; set the Y-axis to zero for clear representation. 
+    * **Tables vs. Charts:** Use tables for clear communication if they effectively convey the message.
+    * **Test for Significance:** Conduct statistical tests to assess the validity of observed data differences.
+    * **Sample Size Matters:** Ensure sufficient data; small samples can be skewed by outliers. 
+
 
 - When leading a meeting, testing out technology, taking notes and preparing supporting materials will help you ensure all participants have a positive experience.
 
@@ -71,6 +93,3 @@ To shift a situation from problematic to productive, data analysts can reframe a
 
 ---
 
-[Glossary](https://docs.google.com/document/d/1oZFmNXd3aXtTrfKULLEtCaRKlKEAMscFfqU2syf1bsw/template/preview)
-
----
