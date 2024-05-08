@@ -18,6 +18,7 @@
 - Select the right data type
 - Determine the time frame
   - If you are collecting your own data, decide how long you will need to collect it, especially if you are tracking trends over a long period of time. If you need an immediate answer, you might not have time to collect new data. In this case, you would need to use historical data that already exists. 
+![image](https://github.com/namrahrehman/Google-Data-Analytics-Notes/assets/93483806/48481d5b-4fd1-4d8e-9cdc-62bc58b6c1ac)
 
 ---
 
@@ -121,6 +122,37 @@ Goals for data transformation might be:
 
 ---
 
-[Glossary](https://docs.google.com/document/d/1l-VExdbkB1xDFtxlhwEfRYG58u6-zsfzqMvHno75SRk/template/preview)
+### Glossary terms from module 1 
+
+* **Agenda:** A scheduled list of topics or events planned for a meeting or session.
+* **Audio file:** Digitized sound data stored in a compressed format like MP3, AAC, etc.
+* **Boolean data:** A data type with only two possible values, typically "true" or "false".
+* **Continuous data:** Data that can take on any numeric value within a specific range. 
+* **Cookie:** A small file stored on a user's computer by a website, containing information about the user's activity.
+* **Data element:** An individual piece of information within a dataset.
+* **Data model:** A representation that defines how data elements are organized and relate to each other.
+* **Digital photo:** An electronic image file, typically saved in formats like BMP or JPG. 
+* **Discrete data:** Data that consists of separate, countable values.
+* **External data:** Data originating and stored outside of an organization.
+* **Field:** A single piece of data within a row or column in a spreadsheet or database table.
+* **First-party data:** Data collected directly by an individual or group using their own resources.
+* **Long data:** A data format where each row represents a single time point for a subject, with each subject's data spread across multiple rows.
+* **Nominal data:** A type of qualitative data that categorizes information without any inherent order.
+* **Ordinal data:** Qualitative data with categories arranged in a specific order or ranking.
+* **Ownership:** A data ethics principle emphasizing that individuals have control over their own data, including usage, processing, and sharing.
+* **Pixel:** The smallest unit of color in a digital image, forming the building block of the displayed picture.
+* **Population:** In data analysis, the entire set of data points or individuals of interest.
+* **Record:** A collection of related data points in a data table, typically synonymous with a row.
+* **Sample:** A representative subset of data points drawn from a larger population.
+* **Second-party data:** Data collected directly from an audience by a group and then sold to others.
+* **Social media:** Online platforms allowing users to create, share content, and participate in social networking. 
+* **String data type:** A data type storing sequences of characters and punctuation representing textual information (also referred to as Text data type).
+* **Structured data:** Data organized in a predefined format, often in rows and columns.
+* **Text data type (String data type):** A data type storing sequences of characters and punctuation representing textual information.
+* **United States Census Bureau:** A U.S. Department of Commerce agency providing comprehensive data about the U.S. population and economy.
+* **Unstructured data:** Data that lacks a predefined format and is not easily categorized.
+* **Video file:** A collection of images, audio, and other data compressed into a format like MP4, MV4, MOV, AVI, or FLV.
+* **Wide data:** A data format where each subject has a single row with multiple columns containing various attribute values. 
+
 
 ---
