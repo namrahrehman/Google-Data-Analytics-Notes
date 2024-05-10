@@ -47,6 +47,15 @@ Interoperability is key to open data's success. It is the ability of data system
 
 One of the biggest benefits of open data is that credible databases can be used more widely. Basically, this means that all of that good data can be leveraged, shared, and combined with other data. But it is important to think about the individuals being represented by the public, open data, too. 
 
+#### The open data debate: What data should be publicly available?
+One of the biggest benefits of open data is that credible databases can be used more widely. Basically, this means that all of that good data can be leveraged, shared, and combined with other data. This could have a huge impact on scientific collaboration, research advances, analytical capacity, and decision-making. But it is important to think about the individuals being represented by the public, open data, too. 
+
+Third-party data is collected by an entity that doesn’t have a direct relationship with the data. You might remember learning about this type of data earlier. For example, third parties might collect information about visitors to a certain website. Doing this lets these third parties create audience profiles, which helps them better understand user behavior and target them with more effective advertising. 
+
+Personal identifiable information (PII) is data that is reasonably likely to identify a person and make information known about them. It is important to keep this data safe. PII can include a person’s address, credit card information, social security number, medical records, and more. 
+
+Everyone wants to keep personal information about themselves private. Because third-party data is readily available, it is important to balance the openness of data with the privacy of individuals. 
+
 <details><summary>Sites and resources for open data</summary><ol>
  <li><a href="https://www.data.gov/">U.S. government data site</a>: Data.gov is one of the most comprehensive data sources in the US. This resource gives users the data and tools that they need to do research, and even helps them develop web and mobile applications and design data visualizations.</li>
  <li><a href="https://www.census.gov/data.html">U.S. Census Bureau</a>: This open data source offers demographic information from federal, state, and local governments, and commercial entities in the U.S. too.</li>
@@ -61,6 +70,33 @@ Kaggle’s datasets and Data Explorer allow you to search for, access, and uploa
  
 ---
  
- [Glossary](https://docs.google.com/document/d/1TnFI_yFdhFSA2qWg4Ln24hHBjXsShxT1Jws6EwiHJtw/template/preview?resourcekey=0-h5EEEfy05Rg6M-Zbv9Xu9A)
+ 
+#### Glossary Course 3, Module 2
+
+* **Bad data source:** A data source lacking reliability, originality, comprehensiveness, currency, and proper citation (ROCCC criteria).
+* **Bias:** A conscious or unconscious preference for or against something, influencing judgment.
+* **Confirmation bias:** The tendency to favor information that confirms existing beliefs while overlooking contradictory evidence. 
+* **Consent:**  A fundamental principle in data ethics, ensuring individuals have the right to know how and why their personal data will be used before consenting to its collection.
+* **Cookie:** A small file stored on a user's computer by a website, containing information about the user's activity.
+* **Currency:** An aspect of data ethics emphasizing that individuals should be informed about financial transactions resulting from the use of their personal data and the extent of those transactions.
+* **Data anonymization:** The process of protecting individuals' privacy by removing identifiable information from data sets.
+* **Data bias:** When a preference for or against something systematically skews data analysis results in a specific direction.
+* **Data ethics:** Established principles guiding how data is collected, shared, and used in a responsible and ethical manner.
+* **Data interoperability:** A crucial factor enabling the successful sharing and use of open data between companies and governments.
+* **Data privacy:** The act of protecting an individual's information during any data transaction.
+* **Ethics:** Well-defined moral principles that guide human behavior, considering  rights, obligations, societal benefits, fairness, and specific virtues.
+* **Experimenter bias (observer bias):** The tendency for different people to interpret or observe things differently.
+* **Fairness:** A characteristic of data analysis that strives to avoid creating or reinforcing bias.
+* **First-party data:** Data collected directly by an individual or group using their own resources.
+* **General Data Protection Regulation (GDPR) of the European Union:** A regulatory framework established by the European Union to protect individuals and their data privacy.
+* **Good data source:** A data source that adheres to the ROCCC criteria (reliable, original, comprehensive, current, and cited).
+* **Interpretation bias:** The tendency to interpret ambiguous situations in a positive or negative light.
+* **Observer bias (experimenter bias):**  The tendency for different people to interpret or observe things differently.
+* **Open data:** Data made freely available to the public for access, usage, and sharing.
+* **Openness:** An aspect of data ethics that promotes the free access, usage, and sharing of data.
+* **Sampling bias:** The distortion of data analysis results due to a sample that is not representative of the entire population it is intended to reflect. This can occur when certain members of the population are overrepresented or underrepresented in the sample.
+* **Transaction transparency:** An aspect of data ethics emphasizing that all data processing activities and algorithms should be understandable and explainable to the individuals who provide the data.
+* **Unbiased sampling:** When a sample accurately reflects the characteristics of the entire population it represents.
+
  
 ---
