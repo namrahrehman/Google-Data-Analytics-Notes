@@ -16,6 +16,7 @@ There are two types of keys that connect tables in relational databases.:
   - A column or group of columns in a relational database table that provides a link between the data and two tables
   - Refers to the field in a table that's the primary key of another table
   - More than one foreign key is allowed to exist in a table
+![image](https://github.com/namrahrehman/Google-Data-Analytics-Notes/assets/93483806/ce2d376e-f4e1-48a3-9f98-a928a663c0a5)
 
 ---
 
