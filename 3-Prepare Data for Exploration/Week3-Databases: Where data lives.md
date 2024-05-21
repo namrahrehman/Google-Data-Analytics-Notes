@@ -62,11 +62,71 @@ Showing only the data that meets a specific criteria while hiding the rest. A fi
 
 [BigQuery](https://cloud.google.com/bigquery/docs) is a data warehouse on Google Cloud that data analysts can use to query, filter large datasets, aggregate results, and perform complex operations.
 
-[In-depth guide: SQL best practices](https://d3c33hcgiwev3.cloudfront.net/5vVDkB5qT1y1Q5Aeau9c_Q_6d0e31160e2e43479d172390d19853f1_DAC3-In-depth-guide_-SQL-best-practices.pdf?Expires=1640304000&Signature=hWhnolocCLzZZL5gzIuHsOUiZ51NtiQeUTp4ofWgA7MpGw8lq6EIibR6M4u77zxIjLsbyvNczH9evvxigwfxLuHqub~cnIwX0Plvdk4u7DCcYnm96~AjNry5WoC1xssRpebLoYWgHI~tvnUXMhk5pCzVfrQvY6TMe0dBUlMacjo_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+### SQL best practices
+This concise guide highlights key practices for crafting clear, readable, and efficient SQL queries:
+
+**Capitalization & Case Sensitivity:**
+
+* Use uppercase for clause starters (SELECT, FROM, WHERE) and functions (SUM(), COUNT()).
+* Employ lowercase for column names (refer to snake_case section).
+* Use CamelCase for table names (refer to CamelCase section).
+* Be mindful of potential case sensitivity variations between SQL dialects (e.g., BigQuery vs. MySQL).
+
+**Single vs. Double Quotes:**
+
+* Generally, prefer single quotes for strings (e.g., 'US').
+* Utilize double quotes when strings contain single quotes (e.g., "Shepherd's pie").
+
+**Adding Comments:**
+
+* Include comments using `--` for single-line or `/* */` for multi-line comments.
+* Comments enhance readability and explain query logic.
+
+**Naming Conventions:**
+
+* Adopt snake_case (lowercase with underscores) for column names (e.g., total_tickets).
+* Use CamelCase (capitalized first letter for each word) for table names (e.g., TicketsByOccasion).
+* Avoid spaces in names.
+* Adhere to company naming conventions for consistency, if applicable.
+
+**Indentation:**
+
+* Maintain lines at or below 100 characters for improved readability.
+* Proper indentation promotes better code structure and understanding.
+
+**SQL Text Editors:**
+
+* Leverage SQL text editors (Sublime Text, Atom) for color coding and advanced editing features.
+* Utilize advanced features like multi-line indent deletion and insertion.
+* Explore regular expressions (regex) for complex string pattern searching and replacement.
+
+By following these guidelines, you can write professional and maintainable SQL queries that enhance your data analysis workflow.
+
 
 ---
 
-[Glossary](https://docs.google.com/document/d/1X15VQdgSqDHoNvd_CurxqQX1rRXAy-X0IQr8EVRI_68/template/preview?resourcekey=0-zN5Xla63PMRl40r9Wfc3Ow)
+
+### Glossary
+
+* **Administrative metadata:** Information about the technical source and origin of a digital asset.
+* **CSV (comma-separated values) file:** A plain text file where commas separate values within each record.
+* **Data governance:** The formal process of managing and overseeing an organization's data assets.
+* **Descriptive metadata:** Information that describes a piece of data, aiding in its identification at a later time.
+* **Foreign key:** A field within a database table that references the primary key of another table, establishing a relationship between them.
+* **FROM clause (SQL):** Part of a database query that specifies the table(s) from which data will be retrieved.
+* **Geolocation:** The geographic location of a person or device determined through digital information.
+* **Metadata:** Data that provides information about other data, essentially "data about data."
+* **Metadata repository:** A centralized database specifically designed to store metadata.
+* **Naming conventions:** Standardized guidelines for file names, ensuring consistency in describing file content, creation date, and version.
+* **Normalized database:** A database structure where each table stores related data, minimizing redundancy and improving data integrity.
+* **Notebook:** An interactive programming environment allowing users to create data reports, visualize data, and showcase data analysis skills. 
+* **Primary key:** A unique identifier within a database table that references a specific column where each value is distinct.
+* **Redundancy:** The unnecessary duplication of the same data element across multiple locations within a database.
+* **Schema:** A formal description of how data is organized, defining the structure and relationships between data elements.
+* **SELECT clause (SQL):** Part of a database query that specifies the specific columns or data points to be retrieved from a table.
+* **WHERE clause (SQL):** Part of a database query that defines the conditions or filters that the retrieved data must meet.
+* **World Health Organization (WHO):** A specialized agency of the United Nations responsible for international public health leadership and coordination.
+
 
 ---
 
