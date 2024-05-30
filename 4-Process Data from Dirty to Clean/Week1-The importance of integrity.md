@@ -57,6 +57,19 @@ Ways to address insufficient data:
   
 </details>
 
+### Proxy Data Examples
+
+Sometimes the data to support a business objective isn’t readily available. This is when proxy data is useful. Take a look at the following scenarios and where proxy data comes in for each example:
+
+#### Business Scenarios and Proxy Data Usage
+
+| **Business Scenario** | **How Proxy Data Can Be Used** |
+|-----------------------|--------------------------------|
+| A new car model was just launched a few days ago and the auto dealership can’t wait until the end of the month for sales data to come in. They want sales projections now. | The analyst proxies the number of clicks to the car specifications on the dealership’s website as an estimate of potential sales at the dealership. |
+| A brand new plant-based meat product was only recently stocked in grocery stores and the supplier needs to estimate the demand over the next four years. | The analyst proxies the sales data for a turkey substitute made out of tofu that has been on the market for several years. |
+| The Chamber of Commerce wants to know how a tourism campaign is going to impact travel to their city, but the results from the campaign aren’t publicly available yet. | The analyst proxies the historical data for airline bookings to the city one to three months after a similar campaign was run six months earlier. |
+
+
 #### Random sampling
 A way of selecting a sample from a population so that every possible type of the sample has an equal chance of being chosen.
 
@@ -86,8 +99,55 @@ A sample size calculator tells you how many people you need to interview (or thi
 #### Margin of error
 The maximum amount that the sample results are expected to differ from those of the actual population. The closer to zero the margin of error, the closer your results from your sample would match results from the overall population. The more people you include in your survey, the more likely your sample is representative of the entire population. Decreasing the confidence level would also have the same effect, but that would also make it less likely that your survey is accurate. To calculate margin of error, you need three things: population size, sample size, and confidence level. [Calculator](https://docs.google.com/spreadsheets/d/1gdhfyA3_vMnQ1cDaGSCshXd5ezLtVPfLhxc9STGq6B8/template/preview).
 
+#### Population
+This is the total number you hope to pull your sample from.
+
+#### Sample
+A part of a population that is representative of the population.
+
+#### Estimated response rate
+If you are running a survey of individuals, this is the percentage of people you expect will complete your survey out of those who received the survey.
+
 ---
 
-[Glossary](https://docs.google.com/document/d/1Ij-diqvlxXx7_GEA1pCovuars8d67iOWSFccrp3Vgv4/template/preview?resourcekey=0-ckHhfy9jV7IWpzJ7k5h20A)
+### Glossary Terms from Module 1
+
+Terms and definitions for Course 4, Module 1
+
+- **Accuracy:** The degree to which the data conforms to the actual entity being measured or described
+
+- **Completeness:** The degree to which the data contains all desired components or measures
+
+- **Confidence interval:** A range of values that conveys how likely a statistical estimate reflects the population
+
+- **Confidence level:** The probability that a sample size accurately reflects the greater population
+
+- **Consistency:** The degree to which data is repeatable from different points of entry or collection
+
+- **Cross-field validation:** A process that ensures certain conditions for multiple data fields are satisfied
+
+- **Data constraints:** The criteria that determine whether a piece of data is clean and valid
+
+- **Data integrity:** The accuracy, completeness, consistency, and trustworthiness of data throughout its life cycle
+
+- **Data manipulation:** The process of changing data to make it more organized and easier to read
+
+- **Data range:** Numerical values that fall between predefined maximum and minimum values
+
+- **Data replication:** The process of storing data in multiple locations
+
+- **DATEDIF:** A spreadsheet function that calculates the number of days, months, or years between two dates
+
+- **Estimated response rate:** The average number of people who typically complete a survey
+
+- **Hypothesis testing:** A process to determine if a survey or experiment has meaningful results
+
+- **Mandatory:** A data value that cannot be left blank or empty
+
+- **Margin of error:** The maximum amount that the sample results are expected to differ from those of the actual population
+
+- **Random sampling:** A way of selecting a sample from a population so that every possible type of the sample has an equal chance of being chosen
+
+- **Regular expression (RegEx):** A rule that says the values in a table must match a prescribed pattern
 
 ---
