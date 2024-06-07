@@ -90,9 +90,70 @@ Data mapping is the process of matching fields from one data source to another. 
 5. We would still want to make sure everything was transferred properly. We'll go into the testing phase of data mapping. For this, you inspect a sample piece of data to confirm that it's clean and properly formatted. It's also a smart practice to do spot checks on things such as the number of nulls. For the test, you can use a lot of the data cleaning tools such as data validation, conditional formatting, COUNTIF, sorting, and filtering.
 6. Once you've determined that the data is clean and compatible, you can start using it for analysis.
 
+### Your Data Cleaning Checklist
+
+This checklist is your first step to efficiently identifying and addressing data quality issues. It will help you understand the scope and scale of your data, allowing you to develop a personalized approach to cleaning. 
+
+**Consider including the following tasks in your checklist:**
+
+* **Dataset Size:** 
+    * Determine the number of rows and columns.
+    * Large datasets may require more cleaning and processing time. This can impact your choice of techniques and time allocation.
+* **Categories and Labels:** 
+    * Identify the number and nature of categories or labels in your data.
+    * Understanding the data's diversity helps with merging and migration strategies.
+* **Missing Data:** 
+    * Recognize missing data to assess data quality and determine appropriate remediation steps.
+    * Data integrity is crucial for accurate and unbiased analysis.
+* **Data Formatting:** 
+    * Identify improperly or inconsistently formatted data to ensure uniformity.
+    * Uniform data is essential for accurate analysis and visualization.
+* **Data Types:** 
+    * Explore the data types (numerical, categorical, text) to choose appropriate cleaning methods and data analysis techniques.
+
+**Remember:**
+
+* This is a starting point. Feel free to add other data-cleaning tasks you've learned about.
+* Your checklist is a personal guide. Customize it to reflect your specific data cleaning needs.
+* By creating and using your checklist, you'll be well on your way to cleaning your data efficiently and effectively.
+
 ---
 
-[Glossary](https://docs.google.com/document/d/1JC24x3TypcFdueCPEd5UAnKIzL9sM8UpOKaMHdibiq4/template/preview)
+## Course 4, Module 2: Terms and Definitions
+
+**Data Quality**
+
+* **Clean data:** Data that is complete, correct, and relevant to the problem being solved. (Think of it as high-quality fuel for your analysis engine!)
+* **Dirty data:** Data that is incomplete, incorrect, or irrelevant to the problem. (Dirty data can lead to misleading results.)
+* **Incomplete data:** Data that is missing important fields. (Like a puzzle with missing pieces!)
+* **Inconsistent data:** Data that uses different formats to represent the same thing. (Imagine addresses with some using abbreviations and others writing out the full street names.)
+* **Incorrect/inaccurate data:** Data that is complete but inaccurate. (A typo in a birthdate, for example.)
+* **Outdated data:** Data that has been superseded by newer and more accurate information. (Relying on old phone numbers can lead to missed connections.)
+
+**Data Integration and Manipulation**
+
+* **Compatibility:** How well two or more datasets are able to work together. (Imagine puzzle pieces from different sets - compatible ones fit together seamlessly.)
+* **Data mapping:** The process of matching fields from one data source to another. (Like labeling corresponding boxes when moving to a new house.)
+* **Data merging:** The process of combining two or more datasets into a single dataset. (Think of merging customer information with purchase history to gain a more complete view.)
+* **CONCATENATE:** A spreadsheet function that joins together two or more text strings. (Like combining a first and last name into a single cell.)
+* **LEFT/RIGHT/MID:** Functions that return specific parts of a text string. (LEFT might give you the first five characters of a name, while MID can extract the middle initial.)
+* **LEN:** A function that returns the length of a text string by counting the number of characters it contains. (Useful for ensuring data fits within designated fields.)
+* **SPLIT:** A function that divides text around a specified character and puts each fragment into a new, separate cell. (Imagine splitting an address at the comma to separate street name from city and state.)
+* **Remove duplicates:** A spreadsheet tool that automatically searches for and eliminates duplicate entries from a spreadsheet. (Like weeding out double entries in a contact list.)
+
+**Data Management**
+
+* **Data validation:** A tool for checking the accuracy and quality of data. (Think of a spellchecker for your data!)
+* **Delimiter:** A character that indicates the beginning or end of a data item. (Like a comma separating values in a CSV file.)
+* **Field length:** A tool for determining how many characters can be keyed into a spreadsheet field. (Imagine setting a limit on the number of characters allowed for a phone number.)
+* **Null:** An indication that a value does not exist in a dataset. (Like an empty placeholder where data is missing.)
+* **Unique:** A value that can't have a duplicate. (Each Social Security number should be unique.)
+* **Data engineer:** A professional who transforms data into a useful format for analysis and gives it a reliable infrastructure. (The data plumber who ensures everything flows smoothly!)
+* **Data warehousing specialist:** A professional who develops processes and procedures to effectively store and organize data. (The data librarian who keeps everything categorized and accessible.)
+* **Text string:** A group of characters within a cell, most often composed of letters. (Names, addresses, product descriptions - all examples of text strings.)
+* **Substring:** A smaller subset of a text string. (Imagine grabbing just the initials from a full name.)
+* **TRIM:** A function that removes leading, trailing, and repeated spaces in data. (Ensuring clean and consistent formatting.)
+* **Merger (data context):** The process of combining two or more datasets into a single dataset. (This definition overlaps with 'Data merging' but clarifies the context within data management.)
 
 ---
 
