@@ -90,7 +90,7 @@ Data mapping is the process of matching fields from one data source to another. 
 5. We would still want to make sure everything was transferred properly. We'll go into the testing phase of data mapping. For this, you inspect a sample piece of data to confirm that it's clean and properly formatted. It's also a smart practice to do spot checks on things such as the number of nulls. For the test, you can use a lot of the data cleaning tools such as data validation, conditional formatting, COUNTIF, sorting, and filtering.
 6. Once you've determined that the data is clean and compatible, you can start using it for analysis.
 
-### Your Data Cleaning Checklist
+#### Your Data Cleaning Checklist
 
 This checklist is your first step to efficiently identifying and addressing data quality issues. It will help you understand the scope and scale of your data, allowing you to develop a personalized approach to cleaning. 
 
@@ -119,7 +119,7 @@ This checklist is your first step to efficiently identifying and addressing data
 
 ---
 
-## Course 4, Module 2: Terms and Definitions
+### Course 4, Module 2: Terms and Definitions
 
 **Data Quality**
 
